@@ -55,7 +55,6 @@ Common commands (Telegram)
 
 ## File structure (suggested)
 - main.py — Telegram bot entrypoint
-- osinfo.py — gathers and formats system info
 - requirements.txt
 - README.md
 
